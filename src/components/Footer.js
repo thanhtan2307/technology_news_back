@@ -22,10 +22,10 @@ const Footer = (props) => {
                             <a href={site.fb}>
                                 <i className="fab fa-facebook"></i>
                             </a>
-                            <a href={`https://youtube.com`}>
+                            <a href={`mailto:thanhtan23071999@gmail.com`}>
                                 <i className="fab fa-google"></i>
                             </a>
-                            <a href='/https://instagram.com'>
+                            <a href='https://www.instagram.com/Dyennhi2307/'>
                                 <i className="fab fa-instagram"></i>
                             </a>
                             <a href={`call to ${site.phone}`} href={`tel:${site.phone}`}>
