@@ -136,6 +136,9 @@ const Create = () => {
 
   return (
     <div className='create-post'>
+       <div style={{position:'fixed', bottom:'0',right:'0'}}>
+          <button>Crawl</button>
+      </div>
       <div className='create-container'>
         <Link className='back-to-home' to='/'>
           <i className="fas fa-arrow-left"></i>
